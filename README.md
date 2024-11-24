@@ -1,4 +1,4 @@
-
+![Thumbnail](public/img/page.jpg)
 
 ## Installation
 
